@@ -1,7 +1,11 @@
 #This is Server-Client Terminal Based Tic tac Toe game. The setup is below
-##Pre-Requisites
+
+#Pre-Requisites
+
 1. node
-##Setup
+
+#Setup
+
 1. After cloning the code, go into the folder and run "npm install"
 2. Once all the dependencies are installed, open the 2 more terminals which will act as your clients
 3. On one of the terminal run "node server.js --port=5050" or any free port that you would like
